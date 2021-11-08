@@ -11,3 +11,5 @@
  * A standard template and parent class of Object Pooling.
  * Implement of Object Pooling Function.
  * Replace Instantiate and Destroy with SetActive to optimaize performance.
+### DataManager
+ * A standard example of saving and loading Data using JSON file.
