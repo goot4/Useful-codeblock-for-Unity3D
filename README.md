@@ -13,3 +13,6 @@
  * Replace Instantiate and Destroy with SetActive to optimaize performance.
 ### DataManager
  * A standard example of saving and loading Data using JSON file.
+### PlayerMovement
+ * Fundamental movement controller using InputSystem Package.
+ * Used for a Top-down View game. 
