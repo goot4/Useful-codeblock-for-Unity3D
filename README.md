@@ -16,3 +16,5 @@
 ### PlayerMovement
  * Fundamental movement controller using InputSystem Package.
  * Used for a Top-down View game. 
+ * ### State
+ * Basic state format.
